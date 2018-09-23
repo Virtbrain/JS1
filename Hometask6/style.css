@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.products {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#basket {
+    margin: 100px auto;
+}
